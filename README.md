@@ -1,7 +1,8 @@
 
 # Worked in the development of AI and ML models bringing automation and further development in existing ML models. 
 
-## Implementation of a Multiclass Classification Model to determine which category the ingredients of a given cuisine match. There are 20 such labels describing the cuisine is whether Indian, Italian, Chinese, Vietnamese, Mexican etc.
+## Implementation of a Multiclass Classification Model to determine which category the ingredients of a given cuisine match. 
+There are 20 such labels describing the cuisine is whether Indian, Italian, Chinese, Vietnamese, Mexican etc.
 
 
 
