@@ -1,6 +1,6 @@
 
 # Worked in the development of AI and ML models bringing automation and further development in existing ML models. 
-# These Models were worked on at C-DAC and hence does not have all other project files under here.
+### These Models were worked on at C-DAC and hence does not have all other project files under here.
 
 ## Implementation of a Multiclass Classification Model to determine which category the ingredients of a given cuisine match. 
 There are 20 such labels describing the cuisine is whether Indian, Italian, Chinese, Vietnamese, Mexican etc.
